@@ -1,6 +1,6 @@
 # fcs_flutter
 
-A new Flutter project.
+Feedback Collection System with the frontend implemented in Flutter
 
 ## Getting Started
 
